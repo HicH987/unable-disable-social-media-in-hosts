@@ -1,5 +1,6 @@
 # Instagram 
 cdninstagram.com 
+www.cdninstagram.com 
 instagram.com 
 www.instagram.com 
  
@@ -12,12 +13,23 @@ gateway.facebook.com
 lithium.facebook.com 
 lookaside.facebook.com 
 m.facebook.com 
+www.api.facebook.com 
+www.b-www.facebook.com 
+www.fb.com 
+www.fb.me 
+www.gateway.facebook.com 
+www.lithium.facebook.com 
+www.lookaside.facebook.com 
+www.m.facebook.com 
 www.facebook.com 
  
 # Messenger 
 edge-chat.facebook.com 
 messenger.com 
 chat-e2ee-mini.facebook.com 
+www.edge-chat.facebook.com 
+www.messenger.com 
+www.chat-e2ee-mini.facebook.com 
  
 # Discord 
 www.discord.com 
@@ -26,10 +38,16 @@ discord.gg
 discord.media 
 discordapp.com 
 discordapp.net 
+www.discord.gg 
+www.discord.media 
+www.discordapp.com 
+www.discordapp.net 
  
 # Signal 
 signal.org 
 textsecure-service.whispersystems.org 
+www.signal.org 
+www.textsecure-service.whispersystems.org 
  
 # Skype 
 edge-skype-com.s-0001.s-msedge.net 
@@ -37,6 +55,11 @@ skype-edf.akadns.net
 skype.com 
 skypeassets.com 
 skypedata.akadns.net 
+www.edge-skype-com.s-0001.s-msedge.net 
+www.skype-edf.akadns.net 
+www.skype.com 
+www.skypeassets.com 
+www.skypedata.akadns.net 
  
 # Snapchat 
 feelinsonice-hrd.appspot.com 
@@ -49,6 +72,16 @@ sc-prod.net
 snap-dev.net 
 snapads.com 
 snapchat.com 
+www.feelinsonice-hrd.appspot.com 
+www.feelinsonice.appspot.com 
+www.sc-analytics.appspot.com 
+www.sc-cdn.net 
+www.sc-gw.com 
+www.sc-jpl.com 
+www.sc-prod.net 
+www.snap-dev.net 
+www.snapads.com 
+www.snapchat.com 
  
 # Tiktok 
 muscdn.com 
@@ -67,19 +100,43 @@ tiktokv.com
 tiktokv.com.edgekey.net 
 tiktokv.com.edgesuite.net 
 ttlivecdn.com 
+www.muscdn.com 
+www.muscdn.com.akamaized.net 
+www.musical.ly 
+www.tiktok.com 
+www.tiktok.com.edgesuite.net 
+www.tiktokcdn.com 
+www.tiktokcdn-us.com 
+www.tiktokcdn.com.akamaized.net 
+www.tiktokcdn.com.c.worldfcdn.com 
+www.tiktokcdn.com.edgesuite.net 
+www.tiktokcdn.com.wsdvs.com 
+www.tiktokcdn.liveplay.myqcloud.com 
+www.tiktokv.com 
+www.tiktokv.com.edgekey.net 
+www.tiktokv.com.edgesuite.net 
+www.ttlivecdn.com 
  
 # Tinder 
 gotinder.com 
 tinder.com 
 tindersparks.com 
+www.gotinder.com 
+www.tinder.com 
+www.tindersparks.com 
  
 # Telegram 
 t.me 
 telegram.me 
 telegram.org 
+web.telegram.org
+www.t.me 
+www.telegram.me 
+www.telegram.org 
 www.web.telegram.org
  
 # Whatsapp 
 whatsapp.com 
 whatsapp.net 
+www.whatsapp.net 
 www.whatsapp.com 
